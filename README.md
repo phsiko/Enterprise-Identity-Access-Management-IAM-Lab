@@ -15,14 +15,11 @@ and endpoint security enforcement. This project showcases the ability to provisi
 
 ## 1. Directory Infrastructure & Role-Based Access
 Architected a logical Active Directory hierarchy. Created custom Organizational Units (OUs)
-to segment users by department rather than utilizing default containers, allowing for targeted Group Policy
-<img width="1013" height="846" alt="Screenshot 2026-06-22 155350" src="https://github.com/user-attachments/assets/1cc68bce-8e94-437a-a27f-d934c27b2ca8" />
-application based on role.
+to segment users by department rather than utilizing default containers, allowing for targeted Group Policy application based on role.
 
 <img width="1013" height="847" alt="Screenshot 2026-06-22 155250" src="https://github.com/user-attachments/assets/1a1c017d-6dc4-4c2f-8686-cdb1b7a8ea7b" />
 <img width="1002" height="767" alt="Screenshot 2026-06-22 155232" src="https://github.com/user-attachments/assets/953ccac6-cd00-4b6a-bd55-50071599d882" />
 <img width="910" height="685" alt="Screenshot 2026-06-22 155015" src="https://github.com/user-attachments/assets/e4909198-855d-40d2-90cc-b5148fddec30" />
-<img width="1010" height="862" alt="Screenshot 2026-06-22 155342" src="https://github.com/user-attachments/assets/723a203a-ab63-49cf-90f5-6836fcb5e338" />
 
 
 
