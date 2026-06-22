@@ -39,4 +39,5 @@ For this step, I wanted to automate something users ask for all the time: access
 ## 5. Policy Validation & End-User Experience
 Finally, I needed to prove that everything I built on the server actually worked on the employee's computer. I logged into the Windows 10 client as my test user. I opened the Command Prompt and ran `gpupdate /force` to command the computer to pull down the latest rules from the Domain Controller. When I opened File Explorer, the Z: drive was automatically mapped and fully accessible, confirming both the GPO and the network folder permissions were configured perfectly.
 
-<img width="1008" height="772" alt="Screenshot 2026-06-22 160456" src="https://github.com/user-attachments/assets/033d975a-bbe1-4358-9e8b-fcb337ebef15" />
+<img width="1002" height="843" alt="Screenshot 2026-06-22 162035" src="https://github.com/user-attachments/assets/29f0897d-caee-4f5f-941f-d99b9c4002e4" />
+
